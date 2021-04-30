@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Nikola Icic
-- 👀 I’m interested in programming ( c++ ,c# ,JavaScript, PHP, React, Angular)
-- 🌱 I’m currently learning to use Git
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Nikola Icic 
+- 👀 25 years old, from Serbia.
+- 🌱 Intested in : Web Development, App Development(anything), Game Development in Unity.
+- 💞️ Familiar programming languages? C,C++,C#,Java,JS,PHP,Python.
+- 👤 Other skills: Html,CSS,Git,Word,Excel,Powerpoint.
 - 📫 How to reach me -> nikolaicic@gmail.com
 
 <!---
