@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Nikola Icic 
-- 👀 25 years old, from Serbia.
-- 🌱 Intested in : Web Development, App Development(anything), Game Development in Unity.
+- 👀 25 years old, from Serbia, Pirot
+- 🌱 Intested in : Web Development, App Development(anything), Artificial Inteligence, Game Development.
 - 💞️ Familiar programming languages? C,C++,C#,Java,JS,PHP,Python.
-- 👤 Other skills: Html,CSS,Git,Word,Excel,Powerpoint.
+- 🎂 Specific techoniligies: Angular,React,.Net,Nest.js
+- 👤 Other skills: Html,CSS,Git,Word,Excel,Powerpoint,SQL.
 - 📫 How to reach me -> nikolaicic@gmail.com
 
 <!---
