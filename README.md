@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nikola Icic 
-- 👀 25 years old, from Serbia, Pirot
+- 👀 27 years old, from Serbia, Pirot
 - 🌱 Intested in : Web Development, App Development(anything), Artificial Inteligence, Game Development.
-- 💞️ Familiar programming languages? C,C++,C#,Java,JS,PHP,Python.
-- 🎂 Specific techoniligies: Angular,React,.Net,Nest.js
-- 👤 Other skills: Html,CSS,Git,Word,Excel,Powerpoint,SQL.
+- 💞️ Familiar programming languages? C,C++,C#,JS,PHP,Html,CSS,SQL.
+- 🎂 Specific techoniligies: Next.js,React,.Net,Nest.js,Node.js,Wordpress,Bootstrap,Unity.
+- 👤 Other skills: Git,Word,Excel,Powerpoint,Photoshop.
 - 📫 How to reach me -> nikolaicic@gmail.com
 
 <!---
